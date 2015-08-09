@@ -1,0 +1,23 @@
+{
+  "name": "ElectronLokiDBDemo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "version": "0.0.1",
+  "description": "ElectronLokiDBDemo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saan1984/ElectronLokiDBDemo.git"
+  },
+  "author": "Sandeep Kumar Patel",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^0.28.3"
+  },
+  "dependencies": {
+    "angular": "^1.3.16",
+    "bootstrap": "^3.3.4",
+    "lokijs": "^1.3.4"
+  }
+}
